@@ -11,6 +11,7 @@ B) Download the Dart SDK
 C) Update your PATH
 D) Run Dart Doctor
 
+B) Download the Dart SDK - when you download Dart, you can access it on the Command line.
 
 2. Which command verifies the Dart installation on macOS?
 
@@ -19,7 +20,7 @@ B) dart --check
 C) dart --verify
 D) dart --version
 
-
+B) dart --check -
 3. What is the next step after downloading and extracting the Flutter SDK on Linux?
 
 A) Install Homebrew
